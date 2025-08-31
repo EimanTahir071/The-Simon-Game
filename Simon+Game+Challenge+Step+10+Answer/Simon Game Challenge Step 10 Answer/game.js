@@ -38,7 +38,9 @@ function checkAnswer(currentLevel) {
         }, 1000);
       }
 
-    } else {
+    }
+    
+    else {
 
       console.log("wrong");
 
